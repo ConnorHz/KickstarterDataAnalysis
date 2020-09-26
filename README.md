@@ -1,3 +1,10 @@
+## Notes from Connor
+
+This purpose of this exercise was to use the Excel techniques we learned in class to modify and analyze a real-life data set. A lot of the asks of this exercise used skills I learned in high school/college and use almost every day at work.
+Regardless, it was still interesting to dive into and dissect this sample of Kickstarter data. I think what stuck out to me most was the amount of campaigns under the Theater -> Play category. I had always assumed Kickstarter was utilized mostly for Tech and Gaming projects, but I guess that goes to show you cannot always operate off your assumptions.
+
+See below for the specific assignment details.
+
 # Excel Homework: Kickstart My Chart
 
 ## Background
